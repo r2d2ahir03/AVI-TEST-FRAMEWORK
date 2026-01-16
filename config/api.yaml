@@ -1,0 +1,6 @@
+base_url: "https://semantic-brandea-banao-dc049ed0.koyeb.app"
+
+endpoints:
+  tenants: "/api/tenant"
+  virtualservices: "/api/virtualservice"
+  serviceengines: "/api/serviceengine"
